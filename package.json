@@ -11,10 +11,18 @@
     "url": "git+https://github.com/nghinx96/profiles.git"
   },
   "license": "ISC",
-  "author": "",
+  "author": "nghinx96",
+  "password": "Toi1223003",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "devDependencies": {
+    "sass": "^1.85.1"
+  },
+  "dependencies": {
+    "@dogstudio/highway": "^2.2.1",
+    "gsap": "^3.12.7"
   }
 }
